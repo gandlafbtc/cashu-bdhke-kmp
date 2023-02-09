@@ -1,6 +1,6 @@
 # Cashu BDHKE Kotlin Multiplatform Library
 
-This is a library implementing the blind diffie hellmann key exchange (Blind signatures) for [cashu](https://githhub.com/cashubtc) on Kotlin multiplatform.
+This is a library implementing the blind diffie hellmann key exchange (Blind signatures) for [cashu](https://github.com/cashubtc) on Kotlin multiplatform.
 
 - [ ] JVM
 - [ ] ANDROID
