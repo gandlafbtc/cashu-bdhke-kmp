@@ -2,7 +2,7 @@
 
 This is a library implementing the blind diffie hellmann key exchange (Blind signatures) for [cashu](https://github.com/cashubtc) on Kotlin multiplatform.
 
-- [ ] JVM
+- [x] JVM
 - [ ] ANDROID
 - [ ] IOS
 - [ ] JS
